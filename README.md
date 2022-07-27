@@ -5,11 +5,11 @@
   <a href="https://github.com/Y4rd13">
   </a>
   <p><strong>My name is Benjamin Serra (Benny!). I'm a data scientist, theoretical computer scientist, lover of artificial intelligence programming and innate researcher of AI alignment</p>
-   🔭 I'm currently working on... private repositories! 🤔
-   📚 focused on NLP, specially in  generative autoregressive language models <br><br>
-   💬 Ask me about anything related with ML!
-   💡 If have any questions or interests to me, feel free to email me.
-   📫 How to reach me: [benny.serra@neuralgt.com](benny.serra@neuralgt.com)
+   - 🔭 I'm currently working on... private repositories! 🤔
+   - 📚 focused on NLP, specially in  generative autoregressive language models <br><br>
+   - 💬 Ask me about anything related with ML!
+   - 💡 If have any questions or interests to me, feel free to email me.
+   - 📫 How to reach me: [benny.serra@neuralgt.com](benny.serra@neuralgt.com)
  </p>
 </div>
 
