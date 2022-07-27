@@ -19,5 +19,5 @@
    <img src="https://github-readme-stats.vercel.app/api?username=Y4rd13&show_icons=true&theme=monokai"/>
   </a>
   <br><strong>* only public repositories stats see more info bellow! 👾</strong>
-![Metrics](/github-metrics.svg)
 </div> 
+![Metrics](/github-metrics.svg)
