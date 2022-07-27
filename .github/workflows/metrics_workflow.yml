@@ -29,7 +29,7 @@ jobs:
           # Options
           user: Y4rd13
           template: repository
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: America/Santiago
           plugin_achievements: yes
           plugin_achievements_display: detailed
@@ -55,4 +55,8 @@ jobs:
           plugin_skyline_frames: 120
           plugin_skyline_quality: 1
           plugin_skyline_year: current-year
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
           plugin_traffic: yes
