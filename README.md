@@ -8,7 +8,7 @@
    <br>- 📚 focused on NLP, specially in  generative autoregressive language models
    <br>- 💬 Ask me about anything related with ML!<br>
    <br>- 💡 If have any questions or interests to me, feel free to email me.
-   <br>- 📫 How to reach me: 
+   <br>- 📫 How to reach me:<br>
    [benny.serra@neuralgt.com](benny.serra@neuralgt.com)
  </p>
 </div>
