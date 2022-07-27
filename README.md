@@ -23,4 +23,4 @@
 </div> 
 
 <!-- ![my github stats](https://github-readme-stats.vercel.app/api?username=Y4rd13&show_icons=true&theme=monokai) -->
-![Metrics](https://metrics.lecoq.io/Y4rd13?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FSantiago)
+![Metrics](https://metrics.lecoq.io/Y4rd13?template=classic&people=1&stargazers=1&projects=1&lines=1&traffic=1&introduction=1&skyline=1&calendar=1&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&stargazers.charts.type=classic&projects.limit=4&projects.descriptions=false&introduction.title=true&calendar.limit=1&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&config.timezone=America%2FSantiago)
