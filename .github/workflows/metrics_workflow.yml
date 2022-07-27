@@ -28,7 +28,7 @@ jobs:
 
           # Options
           user: Y4rd13
-          template: repository
+          template: classic
           base: activity, community, repositories, metadata
           config_timezone: America/Santiago
           plugin_achievements: yes
