@@ -21,6 +21,4 @@
   <br><strong>* only public repositories stats see more info bellow! 👾</strong>
 </div>
 
-<div align="center">
-	<a href="https://github.com/Y4rd13/Y4rd13/blob/main/github-metrics.svg">
-</div>
+<div style="text-align:center"><img src="/github-metrics.svg"/></div>.
