@@ -16,9 +16,11 @@
 
 <div align="center">
   <a href="https://github.com/Y4rd13/Y4rd13">
-   <img src="https://github-readme-stats.vercel.app/api?username=Y4rd13&show_icons=true&theme=monokai"/>
+  	<img src="https://github-readme-stats.vercel.app/api?username=Y4rd13&show_icons=true&theme=monokai"/>
   </a>
   <br><strong>* only public repositories stats see more info bellow! 👾</strong>
 </div>
 
-![Metrics](/github-metrics.svg)
+<div align="center">
+	![Metrics](/github-metrics.svg)
+</div>
