@@ -22,5 +22,5 @@
 </div>
 
 <div align="center">
-	<a href="/github-metrics.svg">
+	<a href="https://github.com/Y4rd13/Y4rd13/blob/main/github-metrics.svg">
 </div>
