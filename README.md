@@ -21,4 +21,4 @@
   <br><strong>* only public repositories stats see more info bellow! 👾</strong>
 </div>
 
-<div style="text-align:center"><img src="/github-metrics.svg"/></div>.
+![Metrics](/github-metrics.svg)
