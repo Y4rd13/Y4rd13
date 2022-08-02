@@ -22,5 +22,5 @@
 </div>
 
 <div align="center">
-	![Metrics](/github-metrics.svg)
+	<a href="/github-metrics.svg">
 </div>
