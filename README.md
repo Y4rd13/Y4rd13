@@ -3,7 +3,6 @@
    <h1>Benny says: Hey World! 👋🤖</h1>
   <a href="https://github.com/Y4rd13/Y4rd13">
   </a>
-  <p><strong>My name is Benjamin Serra (Benny!). I'm a data scientist, theoretical computer scientist, lover of artificial intelligence programming and innate researcher of AI alignment</p>
    <br>- 🔭 I'm currently working on... private repositories! 🤔
    <br>- 📚 focused on NLP, specially in  generative autoregressive language models
    <br>- 💬 Ask me about anything related with ML!<br>
