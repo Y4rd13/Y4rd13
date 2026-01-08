@@ -1,7 +1,7 @@
 <div align="center">  
   <p>
     <h1>Benny says: Hello World! 👋🤖</h1>
-    <h3>Senior Full-Stack AI/ML Engineer | 7+ Years Building Smart Systems</h3>
+    <h3>Senior Full-Stack AI/ML Engineer | 8+ Years Building Smart Systems</h3>
     <br>🧠 Specialized in <strong>AI, Machine Learning & MLOps</strong>  
     <br>🚀 Building scalable <strong>ML solutions</strong>  
     <br>⚡ Recent focus: <strong>Agentic Systems</strong>  
@@ -33,3 +33,4 @@
 </div>
 
 ![Metrics](/github-metrics.svg)
+
